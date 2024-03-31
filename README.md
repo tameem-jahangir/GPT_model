@@ -3,7 +3,7 @@
 GPT-ChatBot: Conversational AI with Custom-Built GPT
 Overview
 
-The GPT-ChatBot project is an open-source initiative that brings together the power of Generative Pre-trained Transformers (GPT) and a custom chatbot. Our goal is to create an accessible and customizable conversational AI system that can be fine-tuned for various applications.
+The GPT-ChatBot project is an open-source initiative that brings together the power of Generative Pre-trained Transformers (GPT) and a custom chatbot. The goal was to create an accessible and customizable conversational AI system that can be fine-tuned for various applications.
 Key Features
 
     Custom GPT Model:
